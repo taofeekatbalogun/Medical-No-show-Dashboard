@@ -15,7 +15,7 @@ This project analyzes medical appointment attendance in Brazil using a public da
 - Cleaned and transformed data using formulas and sorting
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](Medical appointment project/Dashboard.png)
+![Dashboard Screenshot](medical appointment project/Dashboard.png)
 
 ## 📥 Download the Dashboard
 > [Click here to view the Excel file](https://1drv.ms/x/c/a78c6d4310187358/EZTx6M1SAwRFhDsoX9bghHUB7MrN1qFBSe-v4JS-26GNlA?e=oSrt0Q.xlsx)
