@@ -1,2 +1,29 @@
-# Medical-No-show-Dashboard
-A data analysis dashboard visualizing patient no-show patterns using excel
+# 📊 Appointment No-Show Analysis
+
+This project analyzes medical appointment attendance in Brazil using a public dataset. The focus is on identifying patterns behind missed appointments using Excel.
+
+## 🔍 Dataset Source
+- [Kaggle: Medical Appointment No Shows](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
+
+## 📌 Key Insights
+- Females accounted for the majority of no-shows, suggesting a potential gender-linked barrier to appointment follow-through.
+- SMS reminders were not significantly effective in ensuring attendance.
+- Younger patients showed higher no-show rates.
+
+## 🛠️ Tools Used
+- Excel (Pivot Tables, Charts, Dashboard design)
+- Cleaned and transformed data using formulas and sorting
+
+## 📈 Dashboard Preview
+![Dashboard Screenshot](./assets/dashboard-preview.png)
+
+## 📥 Download the Dashboard
+> [Click here to view the Excel file](./Medical appointment_No_Show_Dataset.xlsx)
+
+---
+
+## 📎 Author
+
+🔗 [LinkedIn: @taofeekatbalogun](https://www.linkedin.com/in/taofeekatbalogun)
+
+
